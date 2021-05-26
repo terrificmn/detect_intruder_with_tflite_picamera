@@ -1,4 +1,9 @@
 # 미니 프로젝트 - 라즈베리파이로 침입자 확인 시스템
+1. Tensorflow Lite
+2. Picamera
+3. raspberry pi 
+4. lora
+
 
 
 # TensorFlow Lite Python object detection example with Pi Camera
